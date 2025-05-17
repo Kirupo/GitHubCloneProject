@@ -1,3 +1,1 @@
-## GitHub branching practice
-Objective: Practice branching and merging in Git
-Modification in main branch
+Objective: Practice creating branches, merging and resolvong conflicts.
